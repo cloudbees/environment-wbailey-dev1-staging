@@ -13,6 +13,9 @@ dependencies:
 - name: spring-test-2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: spring-test-3
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: test-create-spring
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
